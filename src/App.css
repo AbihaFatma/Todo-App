@@ -1,0 +1,35 @@
+
+input{
+  width: 100%;
+  
+  
+}
+
+
+
+.abi-row{
+  margin: 10px 5px;
+  font-size: 25px;
+  font-weight: 600;
+  
+
+}
+
+.abi-button{
+  min-width: 162px;
+ 
+
+}
+.todo-container{
+  background-image: url(https://cdn1.vectorstock.com/i/1000x1000/13/40/todo-list-seamless-pattern-universal-background-vector-7561340.jpg);
+
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 100vh;
+  padding: 20px;
+  color: black;
+  
+
+
+  
+}
